@@ -6,7 +6,8 @@ function App() {
         Hello world!
       </h1>
       <div>
-        <div className="badge badge-soft badge-primary badge-xl	">Primary</div>
+        <div className="badge badge-soft badge-primary badge-xl
+        	">Primary</div>
       </div>
     </>
   )
